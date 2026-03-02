@@ -1,6 +1,6 @@
 # 🚀 HackWithInfy LNCT'26 — Daily DSA Practice
 
-> **Student:** [Your Name] | **College:** LNCT | **Batch:** 2026  
+> > **Student:** Adarsh Gupta | **Enrollment No.:** 0103AL231014 | **College:** LNCT | **Branch:** CSE-AIML | **Batch:** 2027 
 > **Goal:** Consistent daily practice for HackWithInfy & Placement Preparation  
 > **Platform:** [LeetCode](https://leetcode.com)  
 > 📋 **Practice Tracker Sheet:** [Click Here](https://docs.google.com/spreadsheets/d/1FcVMHFLMoAbCE8JLN0AfDE1oW3X2jUOb/edit?usp=sharing&ouid=118020999527469468717&rtpof=true&sd=true)
@@ -287,33 +287,6 @@
 ---
 
 ## 📁 Repository Structure
-
-```
-HackWithInfy-LNCT26/
-│
-├── README.md
-├── BinarySearch/
-├── Arrays/
-├── LinkedList/
-├── Strings/
-├── TwoPointers/
-├── SlidingWindow/
-├── Trees/
-├── HashMap/
-├── Stack/
-└── DynamicProgramming/
-```
-
----
-
-## 🎯 Upcoming Topics
-
-- [ ] Dynamic Programming (Advanced)
-- [ ] Graphs (BFS/DFS)
-- [ ] Heaps & Priority Queue
-- [ ] Tries
-- [ ] Backtracking
-- [ ] Greedy Algorithms
 
 ---
 
