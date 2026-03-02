@@ -17,7 +17,6 @@
 | 🟡 Medium | 36 |
 | 🟢 Easy | 31 |
 
----
 
 ## 🗓️ Day-Wise Practice Log
 
